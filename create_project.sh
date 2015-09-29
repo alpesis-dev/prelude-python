@@ -6,7 +6,7 @@
 
 # How to use
 #
-#     $ wget 
+#     $ wget https://raw.githubusercontent.com/KellyChan/project-template/master/create_project.sh 
 #     $ ./create_project.sh
 #
 # folder structure

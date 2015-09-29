@@ -9,6 +9,6 @@ Creating a project
 
 ::
 
-    $ wget
+    $ wget https://raw.githubusercontent.com/KellyChan/project-template/master/create_project.sh
     $ ./create_project.sh
 
