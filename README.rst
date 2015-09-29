@@ -27,4 +27,6 @@ Project Template
                  |---- docs/
                  |---- requirements/
 
+`sample`_
 
+.. _`sample`[sample]
