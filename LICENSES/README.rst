@@ -2,7 +2,7 @@
 Licenses
 #####################################
 
-[Licenses](http://choosealicense.com/licenses/)
+Licenses: http://choosealicense.com/licenses/
 
 - MIT: simple and permissive
 - Apache: patents
