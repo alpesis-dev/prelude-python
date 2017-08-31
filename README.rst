@@ -1,7 +1,8 @@
-Project Template
-===========================
+###############################################################################
+Prelude Python
+###############################################################################
 
-This repo is to generate a project template by linux script.
+This repo is to generate a project template by bash script.
 
 
 Creating a project
